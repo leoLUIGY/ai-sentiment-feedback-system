@@ -1,0 +1,62 @@
+# PHP
+/vendor/
+/composer.lock
+
+# Node (caso use alguma ferramenta JS)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+/*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Banco de dados local
+*.sqlite
+*.db
+*.sql
+
+# Arquivos sensíveis
+.env
+.env.*
+
+# Backup ou dumps
+*.bak
+*.sql
+*.gz
+*.tar.gz
