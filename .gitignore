@@ -8,6 +8,15 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Docker volumes e dados persistentes
+db_data/
+*.pid
+*.seed
+*.log
+
+# MySQL dumps
+*.sql
+
 # Python
 __pycache__/
 /*.py[cod]
