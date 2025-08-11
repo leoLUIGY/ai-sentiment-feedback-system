@@ -58,6 +58,7 @@ CREATE TABLE IF NOT EXISTS feedbacks (
     texto TEXT NOT NULL,
     sentimento VARCHAR(20)
 );
+```
 📋 Passo a Passo para Rodar
 1️⃣ Criar banco e tabela com sql/schema.sql.
 
